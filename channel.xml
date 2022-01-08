@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<root>
+	<tags link="main.php?data=1">HTML</tags>
+	<tags link="main.php?data=2">CSS</tags>
+	<tags link="main.php?data=3">JavaScript</tags>
+	<tags link="main.php?data=4">PHP</tags>
+	<tags link="main.php?data=5">SQL</tags>
+	<tags link="main.php?data=6">XML</tags>
+	<tags link="main.php?data=7">AJAX</tags>
+	<tags link="main.php?data=8">Flask</tags>
+	<tags link="main.php?data=9">Laravel</tags>
+</root>
