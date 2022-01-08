@@ -25,13 +25,13 @@ if ($_REQUEST['data']=='11'){
                 
             	
 				listitem=(items)=>{
-					var srl;
+					
 				    for (var i=0;i<items.length;i++){
 
 				        var para=document.createElement("div");
 				        var node=document.createTextNode(items[i].firstChild.data);
-                        para.appendChild(node);
-                        document.getElementById("channels").appendChild(para);
+                        		para.appendChild(node);
+                        		document.getElementById("channels").appendChild(para);
 					
 				} 
 				setAttr();
